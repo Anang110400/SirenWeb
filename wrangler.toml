@@ -7,19 +7,19 @@ workers_dev = true
 
 routes = [
 
-  { pattern = "stbwrt.biz.id", custom_domain = true },
-  { pattern = "ava.game.naver.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "df.game.naver.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "graph.instagram.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "instagram.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "zaintest.vuclip.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "creativeservices.netflix.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "support.zoom.us.stbwrt.biz.id", custom_domain = true },
-  { pattern = "cache.netflix.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "graph.facebook.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "facebook.com.stbwrt.biz.id", custom_domain = true },
-  { pattern = "engineering.instagram.com.stbwrt.biz.id", custom_domain = true },
+  { pattern = "celengstore.my.id", custom_domain = true },
+  { pattern = "ava.game.naver.com.celengstore.my.id", custom_domain = true },
+  { pattern = "df.game.naver.com.celengstore.my.id", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.celengstore.my.id", custom_domain = true },
+  { pattern = "graph.instagram.com.celengstore.my.id", custom_domain = true },
+  { pattern = "instagram.com.celengstore.my.id", custom_domain = true },
+  { pattern = "zaintest.vuclip.com.celengstore.my.id", custom_domain = true },
+  { pattern = "creativeservices.netflix.com.celengstore.my.id", custom_domain = true },
+  { pattern = "support.zoom.us.celengstore.my.id", custom_domain = true },
+  { pattern = "cache.netflix.com.celengstore.my.id", custom_domain = true },
+  { pattern = "graph.facebook.com.celengstore.my.id", custom_domain = true },
+  { pattern = "facebook.com.celengstore.my.id", custom_domain = true },
+  { pattern = "engineering.instagram.com.celengstore.my.id", custom_domain = true },
 ]
 
 [[kv_namespaces]]
@@ -34,6 +34,6 @@ build = { command = "cargo install -q worker-build && worker-build --dev" }
 
 [vars]
 UUID = "bbbbbbbb-cccc-4ddd-eeee-ffffffffffff"
-MAIN_PAGE_URL = "https://raw.githubusercontent.com/AFRcloud/SirenWeb/refs/heads/master/web/index.html"
-SUB_PAGE_URL = "https://raw.githubusercontent.com/AFRcloud/SirenWeb/refs/heads/master/web/sub.html"
-LINK_PAGE_URL = "https://raw.githubusercontent.com/AFRcloud/SirenWeb/refs/heads/master/web/link.html"
+MAIN_PAGE_URL = "https://raw.githubusercontent.com/Anang110400/SirenWeb/refs/heads/master/web/index.html"
+SUB_PAGE_URL = "https://raw.githubusercontent.com/Anang110400/SirenWeb/refs/heads/master/web/sub.html"
+LINK_PAGE_URL = "https://raw.githubusercontent.com/Anang110400/SirenWeb/refs/heads/master/web/link.html"
