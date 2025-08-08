@@ -7,19 +7,19 @@ workers_dev = true
 
 routes = [
 
-  { pattern = "celengstore.my.id", custom_domain = true },
-  { pattern = "ava.game.naver.com.celengstore.my.id", custom_domain = true },
-  { pattern = "df.game.naver.com.celengstore.my.id", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.celengstore.my.id", custom_domain = true },
-  { pattern = "graph.instagram.com.celengstore.my.id", custom_domain = true },
-  { pattern = "instagram.com.celengstore.my.id", custom_domain = true },
-  { pattern = "zaintest.vuclip.com.celengstore.my.id", custom_domain = true },
-  { pattern = "creativeservices.netflix.com.celengstore.my.id", custom_domain = true },
-  { pattern = "support.zoom.us.celengstore.my.id", custom_domain = true },
-  { pattern = "cache.netflix.com.celengstore.my.id", custom_domain = true },
-  { pattern = "graph.facebook.com.celengstore.my.id", custom_domain = true },
-  { pattern = "facebook.com.celengstore.my.id", custom_domain = true },
-  { pattern = "engineering.instagram.com.celengstore.my.id", custom_domain = true },
+  { pattern = "anang.celengstore.my.id", custom_domain = true },
+  { pattern = "ava.game.naver.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "df.game.naver.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "graph.instagram.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "instagram.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "zaintest.vuclip.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "creativeservices.netflix.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "support.zoom.us.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "cache.netflix.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "graph.facebook.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "facebook.com.anang.celengstore.my.id", custom_domain = true },
+  { pattern = "engineering.instagram.com.anang.celengstore.my.id", custom_domain = true },
 ]
 
 [[kv_namespaces]]
